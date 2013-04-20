@@ -17,3 +17,20 @@
 @include sencha-msgbox;
 
 // Your custom code goes here...
+
+#exercise h3{
+  font-weight: bold;
+  color: #a9a9a9;
+}
+
+#exercise li .label {
+  font-weight: bold;
+}
+
+#exercise li .text {
+  color: #0d4369;
+}
+
+.exercise-set {
+  padding: 10px;
+}
